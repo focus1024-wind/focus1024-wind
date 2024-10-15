@@ -11,4 +11,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-[![focus1024-wind](https://github-profile-trophy.vercel.app/?username=focus1024-wind&column=3&margin-w=10&no-bg=true)](https://github.com/focus1024-wind/focus1024-wind)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=focus1024-wind&column=3&margin-w=10&no-bg=true" alt="github-profile-trophy">
+</div>
