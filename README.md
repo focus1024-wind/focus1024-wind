@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm [focus1024-wind](http://focus1024.com/) 🎉
 
-<!--
-**focus1024-wind/focus1024-wind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨 I live in Xian, China 🇨🇳
+- 💗 Programming
+- 🌏 Open Source
+- 💻 Rust, HTML5, NodeJS
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/focus1024-wind/focus1024-wind/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/focus1024-wind/focus1024-wind/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/focus1024-wind/focus1024-wind/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![focus1024-wind](https://github-profile-trophy.vercel.app/?username=focus1024-wind&column=7&margin-w=10&no-bg=true)](https://github.com/focus1024-wind/focus1024-wind)
