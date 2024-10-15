@@ -3,7 +3,7 @@
 - 👨 I live in Xian, China 🇨🇳
 - 💗 Programming
 - 🌏 Open Source
-- 💻 Rust, HTML5, NodeJS
+- 💻 Rust, Golang, Vue
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/focus1024-wind/focus1024-wind/refs/heads/output/github-contribution-grid-snake-dark.svg" />
@@ -12,5 +12,3 @@
 </picture>
 
 [![focus1024-wind](https://github-profile-trophy.vercel.app/?username=focus1024-wind&column=7&margin-w=10&no-bg=true)](https://github.com/focus1024-wind/focus1024-wind)
-
-![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=focus1024-win&layout=compact&theme=tokyonight)  
